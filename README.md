@@ -1,4 +1,4 @@
-# College Management System
+# College Project Manager
 
 [![MERN Stack](https://img.shields.io/badge/Stack-MERN-blue)](https://www.mongodb.com/mern-stack)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
